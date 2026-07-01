@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[theverge.com](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)",
+    "[apple.com](https://www.apple.com/uk/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/)",
+    "[androidauthority.com](https://www.androidauthority.com/siri-ai-vs-gemini-hands-on-comparison-3677330/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/business/six-in-10-indians-want-personal-ai-agents-highest-in-asia-pacific-report-finds)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=1120px_max_2-3_lines; aida_check=pass; bento_density=grid-auto-flow:dense; label_sweep=competitors_all_present; button_contrast=pass",
+  "generated_at": "2026-07-01T04:21:00.134578+00:00",
+  "headline": "Super vs Siri \u2014 personal AI agents compared",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "A fair, source\u2011backed comparison of Super and Apple\u2019s new Siri AI. Siri is becoming a much more capable, privacy\u2011centric, voice\u2011first assistant deeply integrated into Apple devices. Super is built for a different job: durable personal AI agents that actually operate computers and reuse a computer\u2011use cache, making repeated workflows faster and cheaper over time. This page explains where each shines, where they differ, and which fits repeated computer work."
+}
